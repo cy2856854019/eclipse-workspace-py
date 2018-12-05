@@ -1,0 +1,170 @@
+1543977090703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tK8YBlgEnDre"
+1543977093859	Marionette	INFO	Listening on port 36071
+1543977093964	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+[Parent 7257, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 7257, Gecko_IOThread] WARNING: pipe error (95): 连接被对方重设: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543980144782	Marionette	INFO	Stopped listening on port 36071
+1543981012630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b3GRJ62vxABi"
+1543981015936	Marionette	INFO	Listening on port 46221
+1543981015951	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+1543981066558	Marionette	INFO	Stopped listening on port 46221
+[Parent 9722, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 9722, Gecko_IOThread] WARNING: pipe error (79): 连接被对方重设: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543981164163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.g9wFGoWVh5Rk"
+1543981167650	Marionette	INFO	Listening on port 36257
+1543981167698	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+1543981406972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uTbosqZSY9rK"
+1543981410285	Marionette	INFO	Listening on port 44525
+1543981410396	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+1543981451112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7N5amDCAui7o"
+1543981453981	Marionette	INFO	Listening on port 38795
+1543981454038	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+1543981478691	Marionette	INFO	Stopped listening on port 38795
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 10703, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543981552751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KL1GnlrSjogP"
+1543981556036	Marionette	INFO	Listening on port 41191
+1543981556067	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+1543981593400	Marionette	INFO	Stopped listening on port 41191
+1543981608644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Vj3L0lU5Z9Vh"
+1543981611764	Marionette	INFO	Listening on port 40663
+1543981611873	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+1543981769344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WpQpCASo3xHr"
+1543981772140	Marionette	INFO	Listening on port 35775
+1543981772169	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+1543982257489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aRZRNsJjR3RA"
+1543982260497	Marionette	INFO	Listening on port 33879
+1543982260615	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 12 extraneous bytes before marker 0xd9
+1543982302122	Marionette	INFO	Stopped listening on port 33879
+[Parent 12547, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543987273918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.p1SElffU5KC9"
+1543987277160	Marionette	INFO	Listening on port 40067
+1543987277250	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+1543987310207	Marionette	INFO	Stopped listening on port 40067
+[Parent 14301, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543987458866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i2x6a2jrGNQ3"
+1543987462006	Marionette	INFO	Listening on port 35205
+1543987462094	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 12 extraneous bytes before marker 0xd9
+1543987521151	Marionette	INFO	Stopped listening on port 35205
+[Parent 14709, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543993594850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wGgjYUkzhYh7"
+1543993598126	Marionette	INFO	Listening on port 35315
+1543993598184	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+1543993652377	Marionette	INFO	Stopped listening on port 35315
+[Parent 3855, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543993659566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pAH4H6tmH2X1"
+1543993662703	Marionette	INFO	Listening on port 46815
+1543993662792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543993832662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zTtCPMVFCS8i"
+1543993836071	Marionette	INFO	Listening on port 33517
+1543993836089	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+1543993885597	Marionette	INFO	Stopped listening on port 33517
+[Parent 4591, Gecko_IOThread] WARNING: pipe error (70): 连接被对方重设: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543993903846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ubj3IOqCYmOa"
+1543993907115	Marionette	INFO	Listening on port 41489
+1543993907223	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 12 extraneous bytes before marker 0xd9
+1543994323415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.y9oFpj1sCi9M"
+1543994326745	Marionette	INFO	Listening on port 43075
+1543994326829	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+1543994421912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.31VWOLOVrjop"
+1543994425162	Marionette	INFO	Listening on port 36063
+1543994425231	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+1543995757744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nCwLMGa8Quua"
+1543995761074	Marionette	INFO	Listening on port 40895
+1543995761161	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+1543995877489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GI3GQK2ktLqb"
+1543995880502	Marionette	INFO	Listening on port 35363
+1543995880628	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+1543996045872	Marionette	INFO	Stopped listening on port 35363
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+1543996076965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EhiSEuPvpM0h"
+1543996080180	Marionette	INFO	Listening on port 39545
+1543996080207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543996090685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.M1kydkArkQhA"
+1543996094147	Marionette	INFO	Listening on port 34459
+1543996094204	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+1543996335207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YgfiaZ28gkue"
+1543996338610	Marionette	INFO	Listening on port 33179
+1543996338625	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+1543996596120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mGUmb8uWyqLm"
+1543996599317	Marionette	INFO	Listening on port 45579
+1543996599401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543996611607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LM2nkSPkEUEq"
+1543996615009	Marionette	INFO	Listening on port 38119
+1543996615023	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+1543996670070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YwBh0yHDrjFj"
+1543996673464	Marionette	INFO	Listening on port 34751
+1543996673484	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+1543996752864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vQVgdO80BIs6"
+1543996756091	Marionette	INFO	Listening on port 45957
+1543996756189	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 12 extraneous bytes before marker 0xd9
+1543996815226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VLYUoew61yh1"
+1543996818565	Marionette	INFO	Listening on port 33985
+1543996818647	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+1543997281395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uDLtt4c6vXdL"
+1543997284209	Marionette	INFO	Listening on port 42531
+1543997284317	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+1543997504167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.opHjHvKpoJdG"
+1543997507458	Marionette	INFO	Listening on port 40021
+1543997507494	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+1543998799686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ahFsJ5VB1CHy"
+1543998802819	Marionette	INFO	Listening on port 40383
+1543998802907	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+1543998881118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Agxb3z1uDuw9"
+1543998884454	Marionette	INFO	Listening on port 39617
+1543998884543	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 12 extraneous bytes before marker 0xd9
+1543998979145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.r8PHHPYu4az3"
+1543998982270	Marionette	INFO	Listening on port 42105
+1543998982377	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+1543999053423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rNMzgK2MFP7i"
+1543999056164	Marionette	INFO	Listening on port 35619
+1543999056240	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 15 extraneous bytes before marker 0xd9
+1543999185202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SnJ78nHOjcQH"
+1543999187982	Marionette	INFO	Listening on port 40611
+1543999188030	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+1543999367921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Hha1zGOnW1tZ"
+1543999371862	Marionette	INFO	Listening on port 37015
+1543999371950	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+1543999427456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.orIMrd2qIDIh"
+1543999430602	Marionette	INFO	Listening on port 42859
+1543999430667	Marionette	WARN	TLS certificate errors will be ignored for this session
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
