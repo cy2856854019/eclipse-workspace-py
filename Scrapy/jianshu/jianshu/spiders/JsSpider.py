@@ -23,6 +23,8 @@ class JsspiderSpider(CrawlSpider):
         artile_id = url.split('/')[-1]
         publish_time = response.css('span.publish-time::text').get().replace('*', '')
         content = response.xpath('//div[@class="show-content-free"]').extract()
+        zishu = response.css('span.wordage::text').get()
+        print(zishu)
         
         item = ArticleItem(title=title, avatar=avatar, athour=athour, url=url, 
                            artile_id=artile_id, publish_time=publish_time, content=content)

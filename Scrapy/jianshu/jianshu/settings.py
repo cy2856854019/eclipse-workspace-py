@@ -54,7 +54,7 @@ DEFAULT_REQUEST_HEADERS = {
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
-    'jianshu.middlewares.JianshuDownloaderMiddleware': 543,
+    'jianshu.middlewares.JianshuDownloaderMiddleware': 300,
 }
 
 # Enable or disable extensions
@@ -65,10 +65,10 @@ DOWNLOADER_MIDDLEWARES = {
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-#     'jianshu.pipelines.JianshuPipeline': 300,
-    'jianshu.pipelines.JianshuPipeline_Twisted' : 300,
-}
+# ITEM_PIPELINES = {
+# #     'jianshu.pipelines.JianshuPipeline': 300,
+# #     'jianshu.pipelines.JianshuPipeline_Twisted' : 300,
+# }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
